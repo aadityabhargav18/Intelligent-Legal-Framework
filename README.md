@@ -20,7 +20,7 @@ The Intelligent Legal Framework (ILF) is an innovative platform designed to revo
 
 1. Clone the repository:
 
-git clone https://github.com/mukulvyas/Intelligent-Legal-Framework.git
+git clone https://github.com/aadityabhargav18/Intelligent-Legal-Framework.git
 
 
 ## Usage
